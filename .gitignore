@@ -1,0 +1,15 @@
+# Loại bỏ các file thực thi của C++
+*.exe
+
+# Loại bỏ các file rác sinh ra khi biên dịch
+*.o
+*.out
+
+# Loại bỏ các file/thư mục tạm của Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Loại bỏ các file log và hệ thống
+*.log
+.DS_Store
